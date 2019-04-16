@@ -1,0 +1,33 @@
+port AAAA
+port x12
+port#AAAA
+port#x12
+
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#AAAA
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#x12
+port#AAAA
+port#x12
